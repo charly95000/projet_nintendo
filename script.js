@@ -1,1 +1,1 @@
-var console = "Nintendo 64"
+var console = "Gamecube"
